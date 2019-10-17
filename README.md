@@ -1,5 +1,5 @@
 # Pong
-The classic arcade game Pong coded by me in Python!
+The classic arcade game Pong in Python!
 
 
 import pygame
